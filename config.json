@@ -1,0 +1,13 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Anonymous Pro, monospace",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": false,
+    "editor.renderWhitespace": "all",
+    "editor.cursorStyle": "line",
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 80,
+    "editor.formatOnSave": true,
+    "editor.scrollBeyondLastColumn": 12,
+}
